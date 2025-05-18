@@ -39,7 +39,7 @@ export default FouroneCard;
 const styles = StyleSheet.create({
   card: {
     width: (Dimensions.get('window').width - 40) / 2, // ← total horizontal spacing
-    backgroundColor: '#F8F8FF',
+    backgroundColor: '#E0E0E0',
     borderRadius: 8,
     overflow: 'hidden',
     padding:5
