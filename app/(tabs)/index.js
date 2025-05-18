@@ -2,7 +2,7 @@ import React from 'react';
 import { FlatList, StyleSheet, Text, View } from 'react-native';
 import FouroneCard from '../../components/cards/FouroneCard';
 
-const data = [1, 2, 3, 4, 5, 6,7,8,9,10,11,12]; // Dummy data
+const data = [1, 2, 3, 4, 5, 6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]; // Dummy data
 
 const Index = () => {
   const renderItem = () => <FouroneCard />;
